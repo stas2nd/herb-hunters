@@ -1839,10 +1839,6 @@ section.section--two-intro .section__image {
     }
 }
 
-.section__step .scroll-down {
-    bottom: 0;
-}
-
 .section__step .section__desc {
     width: 930px;
 }
