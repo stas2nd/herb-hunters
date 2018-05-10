@@ -558,7 +558,7 @@ header.header {
     background: none;
     position: absolute;
     left: 50%;
-    bottom: 175px;
+    bottom: 120px;
     z-index: 100;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
@@ -573,9 +573,9 @@ header.header {
     box-shadow: 0 25px 60px 0 rgba(80, 78, 69, 0.4);
 }
 
-@media only screen and (max-width: 1439px) {
+@media only screen and (max-width: 1279px) {
     .scroll-down {
-        bottom: 145px;
+        bottom: 0;
     }
 }
 
