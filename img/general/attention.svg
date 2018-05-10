@@ -1,0 +1,24 @@
+<svg width="29" height="29" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group Copy</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(2478 -262)">
+<g id="Group Copy">
+<g id="Oval 3">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-2478 262)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-2478 262)" fill="#AED54F"/>
+</g>
+</g>
+<g id="!">
+<use xlink:href="#path2_fill" transform="translate(-2465.17 268.6)" fill="#AED54F"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 14.5 29C 22.5081 29 29 22.5081 29 14.5C 29 6.49187 22.5081 0 14.5 0C 6.49187 0 0 6.49187 0 14.5C 0 22.5081 6.49187 29 14.5 29Z"/>
+<path id="path1_stroke_2x" d="M 14.5 30.8C 23.5022 30.8 30.8 23.5022 30.8 14.5L 27.2 14.5C 27.2 21.514 21.514 27.2 14.5 27.2L 14.5 30.8ZM 30.8 14.5C 30.8 5.49776 23.5022 -1.8 14.5 -1.8L 14.5 1.8C 21.514 1.8 27.2 7.48598 27.2 14.5L 30.8 14.5ZM 14.5 -1.8C 5.49776 -1.8 -1.8 5.49776 -1.8 14.5L 1.8 14.5C 1.8 7.48598 7.48598 1.8 14.5 1.8L 14.5 -1.8ZM -1.8 14.5C -1.8 23.5022 5.49776 30.8 14.5 30.8L 14.5 27.2C 7.48598 27.2 1.8 21.514 1.8 14.5L -1.8 14.5Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 3.21989 12.38L 3.21989 15.24C 3.21989 15.24 2.65989 15.4 1.67989 15.4C 0.639893 15.4 0.139893 15.24 0.139893 15.24L 0.139893 12.38C 0.139893 12.38 0.619893 12.22 1.67989 12.22C 2.65989 12.22 3.21989 12.38 3.21989 12.38ZM 0.42 10.04L 0 0.16C 0 0.16 0.58 0 1.66 0C 2.7 0 3.34 0.16 3.34 0.16L 2.92 10.04C 2.92 10.04 2.46 10.22 1.68 10.22C 0.9 10.22 0.42 10.04 0.42 10.04Z"/>
+</defs>
+</svg>
