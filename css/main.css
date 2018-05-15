@@ -2591,6 +2591,12 @@ section.section--two-intro .section__image {
     }
 }
 
+@media only screen and (max-width: 479px) {
+    .user .header__logo {
+        width: 146px;
+    }
+}
+
 .user .header__logo-mount {
     display: block;
 }
@@ -2683,6 +2689,12 @@ section.section--two-intro .section__image {
     }
 }
 
+@media only screen and (max-width: 479px) {
+    .user .header__language {
+        margin-left: 15px;
+    }
+}
+
 .user .header__your-team {
     margin-top: 60px;
     margin-left: 80px;
@@ -2714,7 +2726,7 @@ section.section--two-intro .section__image {
 
 @media only screen and (max-width: 479px) {
     .user .header__your-team {
-        margin-top: 0;
+        margin: 0 auto;
     }
 }
 
