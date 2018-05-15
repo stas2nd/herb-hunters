@@ -2334,9 +2334,8 @@ section.section--two-intro .section__image {
 
 @media only screen and (max-width: 1279px) {
     .captain .header__logo {
-        /* -webkit-box-ordinal-group: 2;
         -ms-flex-order: 1;
-        order: 1; */
+        order: 1;
         width: 356px;
     }
 }
@@ -2446,6 +2445,9 @@ section.section--two-intro .section__image {
 
 @media only screen and (max-width: 1439px) {
     .captain .header__language {
+        -ms-flex-order: 2;
+        order: 2;
+
         margin-left: 10px;
     }
 }
@@ -2504,8 +2506,10 @@ section.section--two-intro .section__image {
 
 @media only screen and (max-width: 1279px) {
     .captain .header__team {
-        margin-top: 50px;
-        margin-left: 30px;
+        -ms-flex-order: 4;
+        order: 4;
+
+        margin: 50px auto 0;
     }
 }
 
@@ -2549,6 +2553,9 @@ section.section--two-intro .section__image {
 @media only screen and (max-width: 1279px) {
     .captain .header__copyright {
         position: relative;
+
+        -ms-flex-order: 3;
+        order: 3;
     }
 }
 
