@@ -2587,7 +2587,7 @@ section.section--two-intro .section__image {
 
 @media only screen and (max-width: 639px) {
     .user .header__logo {
-        width: 280px;
+        width: 226px;
     }
 }
 
@@ -2632,6 +2632,14 @@ section.section--two-intro .section__image {
     }
 }
 
+@media only screen and (max-width: 639px) {
+    .user .header__logo-hunters {
+        top: 20px;
+        left: 35px;
+        width: 145px;
+    }
+}
+
 @media only screen and (max-width: 479px) {
     .user .header__logo-hunters {
         left: 20px;
@@ -2669,7 +2677,8 @@ section.section--two-intro .section__image {
 
 @media only screen and (max-width: 639px) {
     .user .header__language {
-        left: 170px;
+        margin-top: 45px;
+        margin-left: 0;
     }
 }
 
@@ -2698,7 +2707,7 @@ section.section--two-intro .section__image {
 
 @media only screen and (max-width: 639px) {
     .user .header__your-team {
-        margin-top: 120px;
+        margin-top: 40px;
     }
 }
 
