@@ -2678,7 +2678,7 @@ section.section--two-intro .section__image {
 @media only screen and (max-width: 639px) {
     .user .header__language {
         left: 225px;
-        
+
         margin-top: -5px;
     }
 }
@@ -2714,7 +2714,7 @@ section.section--two-intro .section__image {
 
 @media only screen and (max-width: 479px) {
     .user .header__your-team {
-        margin-top: 140px;
+        margin-top: 0;
     }
 }
 
