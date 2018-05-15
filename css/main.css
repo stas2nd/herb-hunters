@@ -2485,6 +2485,9 @@ section.section--two-intro .section__image {
 
 @media only screen and (max-width: 1439px) {
     .captain .header__team {
+        -ms-flex-order: 3;
+        order: 3;
+
         margin-left: 40px;
     }
 }
@@ -2589,9 +2592,6 @@ section.section--two-intro .section__image {
 }
 
 .user .header__logo-mount {
-    position: absolute;
-    top: 0;
-    left: 0;
     display: block;
 }
 
@@ -2648,18 +2648,11 @@ section.section--two-intro .section__image {
     margin-top: 70px;
 }
 
-@media only screen and (max-width: 1279px) {
-    .user .header__language {
-        margin-top: 40px;
-    }
-}
-
 @media only screen and (max-width: 1023px) {
     .user .header__language {
         -webkit-box-ordinal-group: 3;
         -ms-flex-order: 2;
         order: 2;
-        margin-top: 70px;
     }
 }
 
